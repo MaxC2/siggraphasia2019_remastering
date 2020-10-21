@@ -5,10 +5,10 @@ channels:
   - pytorch
 
 dependencies:
-  - python=3.7
-  - cudatoolkit=10
+  - python=3.8
+  - cudatoolkit
   - ffmpeg
-  - pytorch>=0.4.1
+  - pytorch
   - torchvision
   - scikit-image
   - tqdm
