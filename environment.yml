@@ -6,9 +6,9 @@ channels:
 
 dependencies:
   - python=3.8
-  - cudatoolkit
+  - cudatoolkit=10.2
   - ffmpeg
-  - pytorch
+  - pytorch=1.4
   - torchvision
   - scikit-image
   - tqdm
